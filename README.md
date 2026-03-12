@@ -554,4 +554,3 @@ MIT License
 
 Narielana, Hahatyshkin
 
-**Репозиторий:** https://github.com/Hahatyshkin/AudioAnalyzer
