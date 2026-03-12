@@ -552,6 +552,6 @@ MIT License
 
 ## Автор
 
-Hahatyshkin
+Narielana, Hahatyshkin
 
 **Репозиторий:** https://github.com/Hahatyshkin/AudioAnalyzer
