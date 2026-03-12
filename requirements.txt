@@ -1,0 +1,11 @@
+# Основные зависимости для разработки и сборки
+PySide6
+numpy
+pydub
+soundfile
+pyinstaller
+pyinstaller-hooks-contrib
+openpyxl  # для экспорта в Excel
+
+# Опционально: для локального воспроизведения/проверок можно добавить:
+# ffmpeg-python  # не обязателен для работы, используем системный ffmpeg через subprocess
